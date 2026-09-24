@@ -21,7 +21,7 @@ ni@import "tailwindcss";
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
-  transition: background-color 0.25s, color 0.25s;
+  transition: background-color 0.25s, color 0.26s;
 }
 
 @keyframes fadeIn {
